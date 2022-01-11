@@ -12,6 +12,8 @@ elseif PlaceId == 286090429 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/AttackXESP/main/Esp-player.lua"), true))()
 elseif PlaceId == 292439477 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/ATxScript/main/Phantom-Forces"), true))()
+elseif PlaceId == 1537690962 then
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/ATxHUB-BeeSwarm/main/ScriptFree.lua"), true))()
 else
 	game.Players.LocalPlayer:kick("ไปอ่านช่องสคริปว่าอันนี้รองรับแมพอะไรบ้างนะ ไอสัส")
     wait(1)
