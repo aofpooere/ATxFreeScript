@@ -10,6 +10,8 @@ elseif PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 t
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/Attack-Premium/main/ScriptBF.lua"), true))()
 elseif PlaceId == 286090429 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/AttackXESP/main/Esp-player.lua"), true))()
+elseif PlaceId == 292439477 then
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/ATxScript/main/Phantom-Forces"), true))()
 else
 	game.Players.LocalPlayer:kick("ไปอ่านช่องสคริปว่าอันนี้รองรับแมพอะไรบ้างนะ ไอสัส")
     wait(1)
