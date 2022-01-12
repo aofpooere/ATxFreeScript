@@ -18,7 +18,7 @@ elseif PlaceId == 537413528 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/Script.Build--A-Boat/main/Free.lua"), true))()
 elseif PlaceId == 3587619225 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/Mega-ezATX/main/ScriptObby.lua"), true))()
-elseif PlaceId == 3587619225 then
+elseif PlaceId == 6447798030 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/ATxFunky/main/FunkyScript.lua"), true))()
 else
 	game.Players.LocalPlayer:kick("ไปอ่านช่องสคริปว่าสคริปรองรับแมพอะไรบ้างนะ ไอสัส")
